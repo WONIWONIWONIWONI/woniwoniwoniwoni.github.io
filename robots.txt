@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://woniwoniwoniwoni.github.io/todo/sitemap.xml
